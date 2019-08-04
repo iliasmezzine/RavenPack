@@ -2,7 +2,7 @@ from ravenpackapi import RPApi
 from ravenpackapi import Dataset
 import pandas as pd
 
-apikey = "xYJLw50JQN1f4f6urKycmd"
+apikey = "**********************"
 api = RPApi(api_key=apikey)
 
 #Extracts data (positive news count) from one entity
